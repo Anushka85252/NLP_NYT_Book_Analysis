@@ -1,0 +1,30 @@
+# Ignore virtual environment folder
+nlp_env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore output CSVs and large data
+*.csv
+*.xlsx
+*.json
+
+# Ignore logs
+*.log
+
+# Ignore package locks (if accidentally generated)
+poetry.lock
+Pipfile.lock
