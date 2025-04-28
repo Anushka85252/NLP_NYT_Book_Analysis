@@ -18,9 +18,9 @@ __pycache__/
 *.env
 
 # Ignore output CSVs and large data
-*.csv
-*.xlsx
-*.json
+# *.csv
+# *.xlsx
+# *.json
 
 # Ignore logs
 *.log
